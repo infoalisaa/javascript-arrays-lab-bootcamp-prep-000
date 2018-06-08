@@ -16,7 +16,9 @@ function destructivelyRemoveLastKitten(){
 }
 
 kittens = ['Milo', 'Otis', 'Garfield']
-function 
+function destructivelyRemoveFirstKitten(){
+  
+}
 kittens = ['Milo', 'Otis', 'Garfield']
 kittens = ['Milo', 'Otis', 'Garfield']
 kittens = ['Milo', 'Otis', 'Garfield']
