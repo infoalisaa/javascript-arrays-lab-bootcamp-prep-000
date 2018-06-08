@@ -23,10 +23,16 @@ function destructivelyRemoveFirstKitten(){
 kittens = ['Milo', 'Otis', 'Garfield']
 function appendKitten(name){
   var newArray = kittens;
-  return [element,...newArray];
+  return [...newArray,name];
   
 }
+
 kittens = ['Milo', 'Otis', 'Garfield']
+function prependKitten(name){
+  var newArray = kittens;
+  return [name,...newArray];
+  
+}
 
 kittens = ['Milo', 'Otis', 'Garfield']
 function removeLastKitten(){
