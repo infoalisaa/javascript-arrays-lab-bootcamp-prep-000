@@ -27,4 +27,6 @@ function appendKitten(name){
 }
 kittens = ['Milo', 'Otis', 'Garfield']
 kittens = ['Milo', 'Otis', 'Garfield']
+
 kittens = ['Milo', 'Otis', 'Garfield']
+
