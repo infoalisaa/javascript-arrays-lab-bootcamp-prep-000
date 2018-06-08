@@ -11,9 +11,12 @@ function destructivelyPrependKitten(name){
 
 kittens = ['Milo', 'Otis', 'Garfield']
 function destructivelyRemoveLastKitten(){
+  kittens.pop();
   
 }
+
 kittens = ['Milo', 'Otis', 'Garfield']
+function 
 kittens = ['Milo', 'Otis', 'Garfield']
 kittens = ['Milo', 'Otis', 'Garfield']
 kittens = ['Milo', 'Otis', 'Garfield']
